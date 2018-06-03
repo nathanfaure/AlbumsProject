@@ -1,0 +1,18 @@
+﻿@using AlbumsProject.ViewModels;
+
+@model IEnumerable<PostVm>
+@{
+    ViewData["Title"] = "Posts";
+}
+<div class="post-content">
+    <h3>Posts</h3>
+    <div class="pull-left">
+        @Html.ActionLink("Add", "AddPost", routeValues: null, htmlAttributes: new { @class = "btn btn-default" })
+    </div>
+    <div class="posts">
+        @foreach (var post in Model)
+        {
+            @Html.Partial("_PostPartial", post)
+        }
+    </div>
+</div>

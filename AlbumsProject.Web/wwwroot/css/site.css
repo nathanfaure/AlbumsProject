@@ -1,0 +1,80 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Carousel */
+.carousel-caption p {
+    font-size: 20px;
+    line-height: 1.4;
+}
+
+/* Make .svg files in the carousel display properly in older browsers */
+.carousel-inner .item img[src$=".svg"] {
+    width: 100%;
+}
+
+/* QR code generator */
+#qrCode {
+    margin: 15px;
+}
+
+/* Hide/rearrange for smaller screens */
+@media screen and (max-width: 767px) {
+    /* Hide captions */
+    .carousel-caption {
+        display: none;
+    }
+}
+
+.comments-container {
+    margin-left: 300px !important;
+}
+
+.comments-label {
+    display: inherit;
+}
+
+.control-label {
+    padding-top: 0 !important;
+}
+
+.btn-add-comment {
+    margin-top: 5px;
+    display: block;
+}
+
+.comment-text {
+    margin-top: 5px;
+}
+
+footer {
+    position: inherit;
+    bottom: 0;
+    width: inherit;
+    margin: 0 auto;
+}
+
+#message {
+    max-height: 100px;
+    max-width: 300px;
+    width: 200px;
+    height: 50px;
+    min-width: 200px;
+    min-height: 50px;
+}
+
+#user, #choose, #chatGroup {
+    width: 200px;
+}
+
+.chat-container .row {
+    margin-bottom: 10px;
+}
