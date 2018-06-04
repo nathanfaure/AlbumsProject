@@ -16,9 +16,9 @@
     <div class="col-md-8">
         <section>
             <form asp-controller="Account" asp-action="Login" asp-route-returnurl="@ViewData["ReturnUrl"]" method="post" class="form-horizontal">
-                <h4>Use a local account to log in.</h4>
                 <hr />
                 <div asp-validation-summary="All" class="text-danger"></div>
+                @* Email *@
                 <div class="form-group">
                     <label asp-for="Email" class="col-md-2 control-label"></label>
                     <div class="col-md-10">
@@ -26,6 +26,7 @@
                         <span asp-validation-for="Email" class="text-danger"></span>
                     </div>
                 </div>
+                @* Password *@
                 <div class="form-group">
                     <label asp-for="Password" class="col-md-2 control-label"></label>
                     <div class="col-md-10">
@@ -33,6 +34,7 @@
                         <span asp-validation-for="Password" class="text-danger"></span>
                     </div>
                 </div>
+                @* Remember me *@
                 <div class="form-group">
                     <div class="col-md-offset-2 col-md-10">
                         <div class="checkbox">
@@ -43,6 +45,7 @@
                         </div>
                     </div>
                 </div>
+                @* Button Log In *@
                 <div class="form-group">
                     <div class="col-md-offset-2 col-md-10">
                         <button type="submit" class="btn btn-default">Log in</button>

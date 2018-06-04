@@ -12,10 +12,6 @@ namespace AlbumsProject.BLL.Entities.Identity
 
         private string last_name { get; set; }
 
-        private string date_birth { get; set; }
-
-        private string phone_number { get; set; }
-
         private Role role { get; set; }
 
         public ICollection<Comment> Comments { get; set; }
