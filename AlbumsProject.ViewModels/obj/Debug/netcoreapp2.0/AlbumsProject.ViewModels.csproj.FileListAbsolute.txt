@@ -1,9 +1,0 @@
-C:\Users\Nathan\Documents\Projets\AlbumsProject\AlbumsProject.ViewModels\bin\Debug\netcoreapp2.0\AlbumsProject.ViewModels.deps.json
-C:\Users\Nathan\Documents\Projets\AlbumsProject\AlbumsProject.ViewModels\bin\Debug\netcoreapp2.0\AlbumsProject.ViewModels.dll
-C:\Users\Nathan\Documents\Projets\AlbumsProject\AlbumsProject.ViewModels\bin\Debug\netcoreapp2.0\AlbumsProject.ViewModels.pdb
-C:\Users\Nathan\Documents\Projets\AlbumsProject\AlbumsProject.ViewModels\obj\Debug\netcoreapp2.0\AlbumsProject.ViewModels.csprojAssemblyReference.cache
-C:\Users\Nathan\Documents\Projets\AlbumsProject\AlbumsProject.ViewModels\obj\Debug\netcoreapp2.0\AlbumsProject.ViewModels.csproj.CoreCompileInputs.cache
-C:\Users\Nathan\Documents\Projets\AlbumsProject\AlbumsProject.ViewModels\obj\Debug\netcoreapp2.0\AlbumsProject.ViewModels.AssemblyInfoInputs.cache
-C:\Users\Nathan\Documents\Projets\AlbumsProject\AlbumsProject.ViewModels\obj\Debug\netcoreapp2.0\AlbumsProject.ViewModels.AssemblyInfo.cs
-C:\Users\Nathan\Documents\Projets\AlbumsProject\AlbumsProject.ViewModels\obj\Debug\netcoreapp2.0\AlbumsProject.ViewModels.dll
-C:\Users\Nathan\Documents\Projets\AlbumsProject\AlbumsProject.ViewModels\obj\Debug\netcoreapp2.0\AlbumsProject.ViewModels.pdb
