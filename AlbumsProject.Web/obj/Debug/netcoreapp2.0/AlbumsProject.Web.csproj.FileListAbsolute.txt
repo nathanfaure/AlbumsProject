@@ -42,3 +42,4 @@ C:\Users\Nathan\Documents\Projets\AlbumsProject\AlbumsProject.Web\obj\Debug\netc
 C:\Users\Nathan\Documents\Projets\AlbumsProject\AlbumsProject.Web\obj\Debug\netcoreapp2.0\AlbumsProject.Web.csproj.CopyComplete
 C:\Users\Nathan\Documents\Projets\AlbumsProject\AlbumsProject.Web\obj\Debug\netcoreapp2.0\AlbumsProject.Web.dll
 C:\Users\Nathan\Documents\Projets\AlbumsProject\AlbumsProject.Web\obj\Debug\netcoreapp2.0\AlbumsProject.Web.pdb
+C:\Users\Nathan\Documents\Projets\AlbumsProject\AlbumsProject.Web\obj\Debug\netcoreapp2.0\Razor\Views\Helps\About.g.cshtml.cs
